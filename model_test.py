@@ -1,6 +1,6 @@
 # text generator 
 from huggingface_hub import InferenceClient
-client = InferenceClient(api_key ="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")
+client = InferenceClient(api_key ="your_api_key")
 
 # message input
 messages=[
